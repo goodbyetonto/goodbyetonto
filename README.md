@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [React Portfolio](https:\\www.garretttrask.com)
 
-- 🌱 I’m currently learning **Powershell, C#, C++, Python**
-
-- 👨‍💻 All of my projects are available at [https:\\www.garretttrask.com](https:\\www.garretttrask.com)
-
-- 💬 Ask me about **Powershell**
+- 🌱 I’m currently learning **Powershell, C#
 
 - 📫 How to reach me **garrett@garretttrask.com**
 
